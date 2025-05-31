@@ -42,8 +42,9 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.4",
     "tailwindcss": "^3.3.3"
   },
-  "homepage": "https://username.github.io/relatorio-marketing"
+  "homepage": "https://igorcsta.github.io/VeSturePresentation" 
 }
