@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/relatorio-marketing/static/css/main.ffc1f5dc.css",
+    "main.js": "/relatorio-marketing/static/js/main.a67c0165.js",
+    "static/js/453.d6ab8160.chunk.js": "/relatorio-marketing/static/js/453.d6ab8160.chunk.js",
+    "index.html": "/relatorio-marketing/index.html",
+    "main.ffc1f5dc.css.map": "/relatorio-marketing/static/css/main.ffc1f5dc.css.map",
+    "main.a67c0165.js.map": "/relatorio-marketing/static/js/main.a67c0165.js.map",
+    "453.d6ab8160.chunk.js.map": "/relatorio-marketing/static/js/453.d6ab8160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffc1f5dc.css",
+    "static/js/main.a67c0165.js"
+  ]
+}
