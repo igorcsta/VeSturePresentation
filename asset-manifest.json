@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VeSturePresentation/static/css/main.c97dfb41.css",
+    "main.js": "/VeSturePresentation/static/js/main.87e4ae5c.js",
+    "static/js/453.d6ab8160.chunk.js": "/VeSturePresentation/static/js/453.d6ab8160.chunk.js",
+    "index.html": "/VeSturePresentation/index.html",
+    "main.c97dfb41.css.map": "/VeSturePresentation/static/css/main.c97dfb41.css.map",
+    "main.87e4ae5c.js.map": "/VeSturePresentation/static/js/main.87e4ae5c.js.map",
+    "453.d6ab8160.chunk.js.map": "/VeSturePresentation/static/js/453.d6ab8160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c97dfb41.css",
+    "static/js/main.87e4ae5c.js"
+  ]
+}
